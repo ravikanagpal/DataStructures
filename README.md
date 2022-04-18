@@ -1,2 +1,2 @@
 # DataStructures
-Problem Soving
+This repo contains leetcode/hackerrank solutions that I worked on.
