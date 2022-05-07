@@ -1,4 +1,4 @@
-package TwoSum;
+package LeetcodePatterns.Arrays.TwoSum;
 
 /**
  * Leetcode:
